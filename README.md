@@ -1,6 +1,6 @@
 # Página Landing de Alejandro G Vera cursos
 
-URL: https://alexxenudemy.online/
+URL: https://alexielardilla.github.io/cursos-alejandrogvera/
 
 ---------------------------------------------------------------------------------
 Thanks for downloading this template!
